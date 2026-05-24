@@ -53,7 +53,8 @@ Navigate to `http://localhost:5173` in your browser.
 ## 📸 Screenshots
 *(Placeholder: Add your beautiful UI screenshots here! To do this, drag and drop an image into this README file while editing it on GitHub).*
 
-*   **Dashboard View:** `[Replace with image]`
+*   **Dashboard View:** `[<img width="2560" height="1440" alt="Screenshot (446)" src="https://github.com/user-attachments/assets/1aabebaa-5d69-4c7d-a7da-28a0091a774c" />
+]`
 *   **Generate Pipeline:** `[Replace with image]`
 *   **Hybrid Lab:** `[Replace with image]`
 
