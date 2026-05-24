@@ -51,10 +51,15 @@ npm run dev
 Navigate to `http://localhost:5173` in your browser.
 
 ## 📸 Screenshots
-*   **Dashboard View:** `[<img width="2560" height="1440" alt="Screenshot (446)" src="https://github.com/user-attachments/assets/1aabebaa-5d69-4c7d-a7da-28a0091a774c" />
-]`
-*   **Generate Pipeline:** `[Replace with image]`
-*   **Hybrid Lab:** `[Replace with image]`
+*   **Dashboard View:** `<img width="2560" height="1440" alt="Screenshot (450)" src="https://github.com/user-attachments/assets/289915db-0bd1-4f6b-8d53-1398d0818476" />
+`
+*   **Generate Pipeline:** `<img width="2560" height="1440" alt="Screenshot (450)" src="https://github.com/user-attachments/assets/6864ad8b-a6fd-4171-a756-a37b3ada592f" />
+`
+*   **Hybrid Lab:** `<img width="2560" height="1440" alt="Screenshot (459)" src="https://github.com/user-attachments/assets/e0d4cee8-f229-437b-ba22-a62dbfdedbbb" /><img width="2560" height="1440" alt="Screenshot (456)" src="https://github.com/user-attachments/assets/4412da5a-0855-428e-a6a4-29d0b58dfbd6" />
+<img width="2560" height="1440" alt="Screenshot (455)" src="https://github.com/user-attachments/assets/56837b84-2154-4b35-af4e-0e954ac89552" />
+<img width="2560" height="1440" alt="Screenshot (460)" src="https://github.com/user-attachments/assets/60980237-98fe-42c4-ab66-fcec16ce1124" />
+
+`
 
 ## 📄 License
 This project is open-source and available under the MIT License.
