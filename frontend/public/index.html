@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MOL-X | AI Drug Discovery</title>
+    <meta name="description" content="Pocket-based Molecular Diffusion Model for AI-powered drug discovery" />
+ 
+    <!-- 3Dmol.js for molecular visualization -->
+    <script src="https://3dmol.org/build/3Dmol-min.js"></script>
+ 
+    <!-- Space Grotesk font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
+ 
+    <style>
+      * { box-sizing: border-box; }
+      body { margin: 0; padding: 0; background: #050a0e; }
+      ::-webkit-scrollbar { width: 6px; height: 6px; }
+      ::-webkit-scrollbar-track { background: transparent; }
+      ::-webkit-scrollbar-thumb { background: rgba(0,255,170,0.2); border-radius: 3px; }
+      ::-webkit-scrollbar-thumb:hover { background: rgba(0,255,170,0.4); }
+      input[type="range"] { cursor: pointer; }
+      button { font-family: inherit; }
+      select { font-family: inherit; }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
